@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![kaydee](https://github.com/kaydee0502/kaydee0502/blob/main/carbon(1).png?raw=true)
+
 <!--
 **kaydee0502/kaydee0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
