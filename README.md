@@ -1,6 +1,7 @@
 ### Hi there 👋
 Skills :
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![Pandas 1.1.4](https://img.shields.io/badge/pandas-1.1.4-blue.svg)](https://pandas.pydata.org/)
 
 -------------------------------------------------------------------------------------
 ![kaydee](https://github.com/kaydee0502/kaydee0502/blob/main/carbon(1).png?raw=true)
