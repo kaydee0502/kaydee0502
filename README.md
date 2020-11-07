@@ -6,7 +6,7 @@ Skills :
 [![matplotlib](https://img.shields.io/badge/matplotlib-3.2.2-informational.svg)](https://matplotlib.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit_learn-0.23-important.svg)](https://scikit-learn.org/stable/)
 [![tensorflow](https://img.shields.io/badge/tensorflow-2.3.0-orange.svg)](https://www.tensorflow.org/api_docs/python/tf)
-[![keras](https://img.shields.io/badge/tensorflow-2.2.5-red.svg)](https://keras.io/about/)
+[![keras](https://img.shields.io/badge/keras-2.2.5-red.svg)](https://keras.io/about/)
 
 -------------------------------------------------------------------------------------
 ![kaydee](https://github.com/kaydee0502/kaydee0502/blob/main/carbon(1).png?raw=true)
