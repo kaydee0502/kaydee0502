@@ -1,10 +1,11 @@
 ### Hi there 👋
 Skills :
+-
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![pandas 1.1.4](https://img.shields.io/badge/pandas-1.1.4-blue.svg)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.19.0-informational.svg)](https://numpy.org/)
 [![matplotlib](https://img.shields.io/badge/matplotlib-3.2.2-informational.svg)](https://matplotlib.org/)
-=
+-
 [![scikit-learn](https://img.shields.io/badge/scikit_learn-0.23-important.svg)](https://scikit-learn.org/stable/)
 [![tensorflow](https://img.shields.io/badge/tensorflow-2.3.0-orange.svg)](https://www.tensorflow.org/api_docs/python/tf)
 [![keras](https://img.shields.io/badge/keras-2.2.5-red.svg)](https://keras.io/about/)
