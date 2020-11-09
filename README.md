@@ -6,7 +6,7 @@ Skills :
 [![JS](https://img.shields.io/badge/JavaScript-1.8.5-yellow.svg)](https://www.javascript.com/)
 [![SQL](https://img.shields.io/badge/MySQL-8.0-9cf.svg)](https://dev.mysql.com/doc/)
 -
-[![pandas 1.1.4](https://img.shields.io/badge/pandas-1.1.4-blue.svg)](https://pandas.pydata.org/)
+[![pandas 1.1.4](https://img.shields.io/badge/pandas-1.1.4-2f146e.svg)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.19.0-informational.svg)](https://numpy.org/)
 [![matplotlib](https://img.shields.io/badge/matplotlib-3.2.2-informational.svg)](https://matplotlib.org/)
 -
