@@ -1,9 +1,10 @@
 ### Hi there 👋
 Skills :
 -
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
+[![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![C++ 11](https://img.shields.io/badge/C++-11-blue.svg)](http://www.cplusplus.com/info/)
-[![JS](https://img.shields.io/badge/JavaScript-1.8.5-yellow.svg)](http://www.cplusplus.com/info/)
+[![JS](https://img.shields.io/badge/JavaScript-1.8.5-yellow.svg)](https://www.javascript.com/)
+[![SQL](https://img.shields.io/badge/MySQL-8.0-yellow.svg)](https://dev.mysql.com/doc/)
 -
 [![pandas 1.1.4](https://img.shields.io/badge/pandas-1.1.4-blue.svg)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.19.0-informational.svg)](https://numpy.org/)
