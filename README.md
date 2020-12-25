@@ -9,6 +9,7 @@ Skills :
 [![pandas 1.1.4](https://img.shields.io/badge/pandas-1.1.4-4a269e.svg)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.19.0-informational.svg)](https://numpy.org/)
 [![matplotlib](https://img.shields.io/badge/matplotlib-3.2.2-informational.svg)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0.11.1-informational.svg)](https://seaborn.pydata.org/)
 -
 [![scikit-learn](https://img.shields.io/badge/scikit_learn-0.23-important.svg)](https://scikit-learn.org/stable/)
 [![tensorflow](https://img.shields.io/badge/tensorflow-2.3.0-orange.svg)](https://www.tensorflow.org/api_docs/python/tf)
