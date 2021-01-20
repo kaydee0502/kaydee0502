@@ -1,19 +1,14 @@
 ### Hi there 👋
-Skills :
+
 -
-[![Python 3.6](https://img.shields.io/badge/Python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
-[![C++ 11](https://img.shields.io/badge/C++-11-blue.svg)](http://www.cplusplus.com/info/)
-[![JS](https://img.shields.io/badge/JavaScript-1.8.5-yellow.svg)](https://www.javascript.com/)
-[![SQL](https://img.shields.io/badge/MySQL-8.0-9cf.svg)](https://dev.mysql.com/doc/)
+
+#### About me : Computer enthusiast, logical thinker and believes in teamwork, I am an IT students who keeps embracing his skills, Currently learning about {GCP,AWS,Azure} and REST APIs.
+
 -
-[![pandas 1.1.4](https://img.shields.io/badge/pandas-1.1.4-4a269e.svg)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-1.19.0-informational.svg)](https://numpy.org/)
-[![matplotlib](https://img.shields.io/badge/matplotlib-3.2.2-informational.svg)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-0.11.1-informational.svg)](https://seaborn.pydata.org/)
--
-[![scikit-learn](https://img.shields.io/badge/scikit_learn-0.23-important.svg)](https://scikit-learn.org/stable/)
-[![tensorflow](https://img.shields.io/badge/tensorflow-2.3.0-orange.svg)](https://www.tensorflow.org/api_docs/python/tf)
-[![keras](https://img.shields.io/badge/keras-2.2.5-red.svg)](https://keras.io/about/)
+
+###### Stats :
+[![![KayDee's github stats](https://github-readme-stats.vercel.app/api?username=kaydee0502)](https://github.com/kaydee0502/github-readme-stats)
+
 
 -------------------------------------------------------------------------------------
 ![kaydee](https://github.com/kaydee0502/kaydee0502/blob/main/carbon(1).png?raw=true)
