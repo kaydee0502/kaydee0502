@@ -1,5 +1,3 @@
----
-
 # Hi, It's Kshitij 👋 
 
 ### (:star:KayDee)
@@ -11,8 +9,6 @@
 
 ##### Stats :
 [![KayDee's github stats](https://github-readme-stats.vercel.app/api?username=kaydee0502&count_private=true&show_icons=true&theme=cobalt&hide=stars)](https://github.com/kaydee0502/github-readme-stats)
-
--------------------------------------------------------------------------------------
 
 
 <!--
