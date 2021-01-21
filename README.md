@@ -4,7 +4,7 @@
 
 ##  About Me,
 
-+ Computer enthusiast, logical thinker and believes in teamwork, I am an IT students who keeps embracing his skills, Currently learning about {GCP,AWS,Azure} and REST APIs.
++ Computer enthusiast, logical thinker and believes in teamwork, I am an IT students who keeps embracing his skills, Currently learning about {GCP,AWS,Azure}, Web Scrapping and REST APIs.
 
 
 
