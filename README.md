@@ -25,12 +25,17 @@
     <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-##### Stats :
-<!-- [![KayDee's github stats](https://github-readme-stats.vercel.app/api?username=kaydee0502&count_private=true&show_icons=true&theme=cobalt)](https://github.com/kaydee0502/github-readme-stats) -->
 
-<div style="display: flex;justify-content:center">
-<img src="https://raw.githubusercontent.com/kaydee0502/kaydee0502/v2/profile-summary-card-output/dracula/0-profile-details.svg" align='center'>
-</div>
+<!-- [![KayDee's github stats](https://github-readme-stats.vercel.app/api?username=kaydee0502&count_private=true&show_icons=true&theme=cobalt)](https://github.com/kaydee0502/github-readme-stats) -->
+##### Stats :
+
+
+
+<img src="https://raw.githubusercontent.com/kaydee0502/kaydee0502/v2/profile-summary-card-output/dracula/0-profile-details.svg" style = "display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;">
+
 
 <!--
 **kaydee0502/kaydee0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
