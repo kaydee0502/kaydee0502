@@ -31,10 +31,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/kaydee0502/kaydee0502/v2/profile-summary-card-output/dracula/0-profile-details.svg" style = "display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;">
+<img src="https://raw.githubusercontent.com/kaydee0502/kaydee0502/v2/profile-summary-card-output/dracula/0-profile-details.svg" width = "1000px">
 
 
 <!--
