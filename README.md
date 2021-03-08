@@ -22,7 +22,7 @@
     <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23EE4C2C.svg?&style=for-the-badge&logo=Flask&logoColor=white&color=rgb(10,10,10)" />
     <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230072C6.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-    <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white&color=rgb(10,10,10)"/>
     <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
