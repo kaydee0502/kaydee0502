@@ -24,6 +24,7 @@
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white&color=rgb(10,10,10)"/>
     <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+    
 </p>
 
 
@@ -32,8 +33,8 @@
 
 
 
-<img src="https://raw.githubusercontent.com/kaydee0502/kaydee0502/v2/profile-summary-card-output/dracula/0-profile-details.svg" width = "1000px">
-
+<img src="https://raw.githubusercontent.com/kaydee0502/kaydee0502/v2/profile-summary-card-output/dracula/0-profile-details.svg" width = "550px" align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaydee0502&" alt="kaydee0502" align ="right" width = "360px" height = "160px" />
 
 <!--
 **kaydee0502/kaydee0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
