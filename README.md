@@ -34,7 +34,7 @@
 
 
 <img src="https://raw.githubusercontent.com/kaydee0502/kaydee0502/v2/profile-summary-card-output/dracula/0-profile-details.svg" width = "50%" align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaydee0502&" alt="kaydee0502" align ="right" width = "40%" height = "160px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaydee0502&" alt="kaydee0502" align ="right" width = "40%" height = "10%" />
 
 <!--
 **kaydee0502/kaydee0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
