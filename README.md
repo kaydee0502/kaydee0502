@@ -2,7 +2,7 @@
 
 
 
-<h2 align="center">About Me🔭</h2>
+<h2 align="center">About Me!🔭</h2>
 
 <img align="right" src="https://raw.githubusercontent.com/kaydee0502/kaydee0502/v2/code.gif" width="40%"/>
 
