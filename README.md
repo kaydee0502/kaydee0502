@@ -16,7 +16,7 @@ Skills :
 [![keras](https://img.shields.io/badge/keras-2.2.5-red.svg)](https://keras.io/about/)
 
 -------------------------------------------------------------------------------------
-![kaydee](https://github.com/kaydee0502/kaydee0502/blob/main/carbon(1).png?raw=true)
+<img src =  "https://github.com/kaydee0502/kaydee0502/blob/main/me.png?raw=true" height = "300px"/>
 
 <!--
 **kaydee0502/kaydee0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
