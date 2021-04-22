@@ -4,7 +4,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d959qjhaokwzq1mjnq9rxrqvm&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=d959qjhaokwzq1mjnq9rxrqvm&redirect=true)
 
-
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=d959qjhaokwzq1mjnq9rxrqvm&cover_image=true&theme=default" width = "25%" align="left">
 <!-- [![KayDee's github stats](https://github-readme-stats.vercel.app/api?username=kaydee0502&count_private=true&show_icons=true&theme=cobalt)](https://github.com/kaydee0502/github-readme-stats) -->
 ##### Stats :
 
