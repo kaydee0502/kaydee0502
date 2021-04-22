@@ -3,7 +3,7 @@
 
 
 
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=d959qjhaokwzq1mjnq9rxrqvm&redirect=true" ><img src="https://spotify-github-profile.vercel.app/api/view?uid=d959qjhaokwzq1mjnq9rxrqvm&cover_image=true&theme=default" width = "20%" align="left"> </a>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=d959qjhaokwzq1mjnq9rxrqvm&redirect=true" ><img src="https://spotify-github-profile.vercel.app/api/view?uid=d959qjhaokwzq1mjnq9rxrqvm&cover_image=true&theme=default" width = "30%" align="left"> </a>
 
 
 <!--
