@@ -5,9 +5,18 @@
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=d959qjhaokwzq1mjnq9rxrqvm&redirect=true" ><img src="https://spotify-github-profile.vercel.app/api/view?uid=d959qjhaokwzq1mjnq9rxrqvm&cover_image=true&theme=default" width = "25%" align="left"> </a>
 
-<!-- [![KayDee's github stats](https://github-readme-stats.vercel.app/api?username=kaydee0502&count_private=true&show_icons=true&theme=cobalt)](https://github.com/kaydee0502/github-readme-stats) -->
 
-##### Stats :
+
+<a href="https://github.com/kaydee0502/kaggle-profile-card" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaydee0502&repo=kaggle-profile-card&show_owner=true" width = "50%" align="right"> </a>
+
+
+<a href="https://github.com/kaydee0502/kaggle-profile-card" ><img src="https://kaggle-summary-card.herokuapp.com/api?user=kshitijdhama&extend" width = "50%" align="right"> </a>
+
+
+
+
+
+
 
 
 
