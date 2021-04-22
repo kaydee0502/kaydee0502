@@ -2,9 +2,7 @@
 
 
 
-
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=d959qjhaokwzq1mjnq9rxrqvm&redirect=true" ><img src="https://spotify-github-profile.vercel.app/api/view?uid=d959qjhaokwzq1mjnq9rxrqvm&cover_image=true&theme=default" width = "30%" align="left"> </a>
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d959qjhaokwzq1mjnq9rxrqvm&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=d959qjhaokwzq1mjnq9rxrqvm&redirect=true)
 
 <!--
 <a href="https://github.com/kaydee0502/kaggle-profile-card" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaydee0502&repo=kaggle-profile-card&show_owner=true" width = "50%" align="right"> </a>-->
