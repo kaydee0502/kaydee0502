@@ -3,7 +3,7 @@
 
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d959qjhaokwzq1mjnq9rxrqvm&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=d959qjhaokwzq1mjnq9rxrqvm&redirect=true)
+![itachi](https://github.com/kaydee0502/kaydee0502/blob/v1/2184474772_preview_Naruto-akatsuki-itachi-uchiha.jpg?raw=true)
 
 <!--
 <a href="https://github.com/kaydee0502/kaggle-profile-card" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaydee0502&repo=kaggle-profile-card&show_owner=true" width = "50%" align="right"> </a>-->
