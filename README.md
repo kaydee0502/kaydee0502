@@ -3,7 +3,7 @@
 
 
 
-![itachi](https://github.com/kaydee0502/kaydee0502/blob/v1/2184474772_preview_Naruto-akatsuki-itachi-uchiha.jpg?raw=true)
+![itachi](https://github.com/kaydee0502/kaydee0502/blob/v1/itachi.jpg?raw=true)
 
 <!--
 <a href="https://github.com/kaydee0502/kaggle-profile-card" ><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaydee0502&repo=kaggle-profile-card&show_owner=true" width = "50%" align="right"> </a>-->
