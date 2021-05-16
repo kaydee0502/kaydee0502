@@ -1,5 +1,4 @@
 # Hi, It's Kshitij! 👋 
-### Currently listening to...
 
 
 
