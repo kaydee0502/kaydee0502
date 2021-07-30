@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/kaydee0502/kaydee0502/v2/profile-summary-card-output/default/4-productive-time.svg)
+```
+
+    
