@@ -22,7 +22,6 @@
     <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230072C6.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
     <img alt="Postman" src="https://img.shields.io/badge/Postman%20-%23FA7343.svg?&style=for-the-badge&logo=postman&logoColor=white" />
     <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white&color=rgb(10,10,10)"/>
-    <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     
 </p>
 
