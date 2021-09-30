@@ -11,7 +11,6 @@
 <h2 align="center">⚡Tech Stack</h2>
 <p align="center">
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img alt="AZURE" src="https://img.shields.io/badge/Azure-%2300f.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white&color=rgb(54,132,255)"/>
     <img alt="REST" src="https://img.shields.io/badge/{REST API}%20-%23013243.svg?&style=for-the-badge&color=c2f5cd&logoColor=white" />
