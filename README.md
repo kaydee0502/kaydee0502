@@ -1,12 +1,10 @@
-# Ayo!
+<!-- # Ayo!
 
 
 
-<h2 align="center">About Me!🔭</h2>
+<h2 align="center">About Me!🔭</h2> -->
 
-<img align="right" src="https://raw.githubusercontent.com/kaydee0502/kaydee0502/v2/code.gif" width="40%"/>
-
-> Computer enthusiast, logical thinker and believes in teamwork, I am an IT student who keeps embracing his skills, Currently learning about Node.js/Express.js, Web Sockets, Docker, CI/CD, Redis, APIs and Microservices.
+<!-- <img align="right" src="https://raw.githubusercontent.com/kaydee0502/kaydee0502/v2/code.gif" width="80%"/>
 
 <h2 align="center">⚡Tech Stack</h2>
 <p align="center">
@@ -23,7 +21,7 @@
     <img alt="Postman" src="https://img.shields.io/badge/Postman%20-%23FA7343.svg?&style=for-the-badge&logo=postman&logoColor=white" />
     <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white&color=rgb(10,10,10)"/>
     
-</p>
+</p> -->
 
 
 <!-- [![KayDee's github stats](https://github-readme-stats.vercel.app/api?username=kaydee0502&count_private=true&show_icons=true&theme=cobalt)](https://github.com/kaydee0502/github-readme-stats) -->
