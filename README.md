@@ -1,5 +1,3 @@
-Hi there : )
-
 <!-- # Ayo!
 
 
@@ -26,7 +24,9 @@ Hi there : )
 </p> -->
 
 
-<!-- [![KayDee's github stats](https://github-readme-stats.vercel.app/api?username=kaydee0502&count_private=true&show_icons=true&theme=cobalt)](https://github.com/kaydee0502/github-readme-stats) -->
+[![](https://raw.githubusercontent.com/kaydee0502/kaydee0502/v2/profile-summary-card-output/gotham/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kaydee0502/kaydee0502/v2/profile-summary-card-output/gotham/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 <!-- ##### Stats :
 
 
